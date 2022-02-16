@@ -2,9 +2,11 @@
 public class Git {
 
 	public static void main(String[] args) {
-		System.out.println("abcd");
-		System.out.println("abcd");
-        System.out.println("fgd");
+		int numb = 12;
+		int numb1 = 10;
+		int Total = numb;
+		System.out.println(" total "+ Total);
+        
 	}
 
 }
